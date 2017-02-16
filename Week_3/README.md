@@ -2,7 +2,7 @@
 
 ## Things in this repo:
 * Files & resources used for recipe site
-* Recipe site
+* Link to live version of the recipe site
 * Documentation in this README file for recipe site
 
 ## Documentation:
