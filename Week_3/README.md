@@ -8,4 +8,4 @@
 ## Documentation:
 
 ## Link:
-[View recipe site here]: http://mochadroppe.me/recipe.html>
+[View recipe site here]: http://mochadroppe.me/recipe.html
