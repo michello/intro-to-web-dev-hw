@@ -5,4 +5,4 @@
 2. Wireframe of recipe website
 3. A basic and unfinished layout of recipe site
 4. Week 2's Box Model In Class Exercise for extra credit
-5. My thoughts on "Five Important Considerations for Wireframing" via .txt file
+5. My thoughts on "Five Important Considerations for Wireframing" via .txt file 
