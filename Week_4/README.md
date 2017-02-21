@@ -17,12 +17,12 @@ I wish to create a portfolio page that accurately displays myself and the work I
 ![alt tag](img/midterm-layout-5.png)
 
 # INSPIRATION
-https://www.facebook.com/groups/1487708811477672/
-https://www.ryanfitzgerald.ca/
-http://hasque.com/
-http://pablogarces.me/index.html
-http://codepen.io/geeksmarter/full/XpwYQx/
-http://championswimmer.in/
+* https://www.facebook.com/groups/1487708811477672/
+* https://www.ryanfitzgerald.ca/
+* http://hasque.com/
+* http://pablogarces.me/index.html
+* http://codepen.io/geeksmarter/full/XpwYQx/
+* http://championswimmer.in/
 
 # CONCEPT/SKILLS WE COVERED
 * Responsive design
