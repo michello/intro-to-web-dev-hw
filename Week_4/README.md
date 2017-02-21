@@ -4,7 +4,7 @@ I wish to create a portfolio page that accurately displays myself and the work I
 # SITEMAP
 
 # WIREFRAME
-![alt tag](intro-to-web-dev-hw/Week_4/img/1.jpg)
+![alt tag](img/1.jpg)
 ![alt tag](/img2.png)
 ![alt tag](/img3.png)
 ![alt tag](/img4.png)
