@@ -2,6 +2,7 @@
 I wish to create a portfolio page that accurately displays myself and the work I've done thus far. Ideally it'll showcase both my computer science abilities and my graphic design work accurately in its sleek and simple design.
 
 # SITEMAP
+![alt tag](img/midterm-wireframe.png)
 
 # WIREFRAME
 ![alt tag](img/1.jpg)
