@@ -9,6 +9,12 @@ I wish to create a portfolio page that accurately displays myself and the work I
 ![alt tag](img/3.jpg)
 ![alt tag](img/4.jpg)
 
+![alt tag](img/midterm-layout-1.png)
+![alt tag](img/midterm-layout-2.png)
+![alt tag](img/midterm-layout-3.png)
+![alt tag](img/midterm-layout-4.png)
+![alt tag](img/midterm-layout-5.png)
+
 # INSPIRATION
 https://www.facebook.com/groups/1487708811477672/
 https://www.ryanfitzgerald.ca/
