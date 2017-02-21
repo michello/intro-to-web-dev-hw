@@ -5,9 +5,9 @@ I wish to create a portfolio page that accurately displays myself and the work I
 
 # WIREFRAME
 ![alt tag](img/1.jpg)
-![alt tag](/img2.png)
-![alt tag](/img3.png)
-![alt tag](/img4.png)
+![alt tag](img2.png)
+![alt tag](img3.png)
+![alt tag](img4.png)
 
 # INSPIRATION
 https://www.facebook.com/groups/1487708811477672/
