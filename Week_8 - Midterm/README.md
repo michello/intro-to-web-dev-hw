@@ -1,5 +1,8 @@
 # Week 8 - Midterm Site
 
+## Live Site Link
+Feel free to view the site live [here](http://mochadroppe.me/)
+
 ## Documentation of My Process
 I more or less followed the layout of my mockups which can be found [here](https://github.com/ml4963/intro-to-web-dev-hw/tree/master/Week_4/img).
 
