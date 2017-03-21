@@ -21,17 +21,16 @@ The nav bar displays the links to navigate through the site. Once the window scr
 - A form was also made for people to email me. Because github pages can only host static sites, I had to use [Formspree](https://formspree.io/).
 
 ## Source Code Explanation
-- **Project page**: Coming up with a way to switch between projects and design was a challenging issue. What ended up happening is that there is a different div wrapped around projects and design. There are two links to trigger the toggle function, which will show the link's corresponding div and hide the other link's corresponding div.
-
-- **Pop Up Modal**: Creating the pop up modal was something new and fun for me.
-
-- **Nav bar**: Creating a responsive, toggleable navbar also posed a great challenge. As the end result, the nav bar is 
+- **Project page**: The projects and design parts are wrapped up within their individual div. There are then two links to trigger the toggle function, which will show the link's corresponding div and hide the other link's corresponding div.
+- **Pop Up Modal**: The pop up is created with a modal box, which is a popup window that is displayed on the page. 
+- **Nav bar**: When the screen resizes small enough, a class is added to the nav bar so that its CSS changes for the nav bar to be mobile friendly.
 
 Explanation of some of your source code (not the entire site but sometime you found challenging or interesting you’d like to share)
 
 ## Encountered Issues
-- **Pop Up Modal**: Having the popup modal to work was a struggle.
-- **Project page**: Being able to hide one div and show the other div and do vice versa infinitely was also a struggle.
+- **Floating Penguin Image**: Animating the penguin on my homepage was problem I couldn't solve until I randomly set its position to relative.
+- **Project page**: Figuring out how to toggle between products and design was another challenge. At times it didn't show the correct div and others, nothing appeared or was switched at all.
+- **Nav bar**: Getting the nav bar to trigger to its proper size was an issue and challenge I experienced again and again. For now, it works as desired but still not properly formatted.
 
 ## What I Learned 
 - Media Queries/ jQuery
