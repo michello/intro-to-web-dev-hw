@@ -4,6 +4,9 @@
 - [live demo here](http://mochadroppe.me/iPod)
 - [github repo here](https://github.com/ml4963/ml4963.github.io/blob/master/iPod.html)
 
+## what it is
+It's 
+
 ## inspo
 
 When I was in middle school, I was sadly mugged at a train station and robbed of my iPod. Inspired by this experience, I decided to replicate my iPod (in the form of an iPod Nano, which I also had, strangely) and have it play the playlist I used to have in middle school. Hope you enjoy listening as much as I enjoyed making this!
@@ -13,7 +16,7 @@ When I was in middle school, I was sadly mugged at a train station and robbed of
 
 - CSS art! It was loads of fun learning how to play around with the shapes to create something even if they were of super basic shapes.
 - Javascript >>> jQuery in complexity. With only three all nighters worth of jQuery, I found Javascript to be a pretty fun challenge, since I'm pretty sure jQuery has a module for some functions I had to construct with just pure Javascript.
-- Toggling is hard. Though I understand how toggling works, I still have trouble with changing the +/- icon whenever the other is pressed. It doesn't currently work but at least the content is hidden or shown?
+- Toggling is hard. Though I understand how toggling works, I still have trouble with changing the +/- icon whenever the other is pressed. I also didn't know an easier way to create the toggling feature with pure javascript so I decided to just use jQuery. It works in the end so yay!
 
 ## future improv
 
