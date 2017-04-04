@@ -5,7 +5,7 @@
 - [github repo here](https://github.com/ml4963/ml4963.github.io/blob/master/iPod.html)
 
 ## what it is
-It's 
+It's a music player that plays songs that are locally stored with a click of the spacebar. To skip or go backwards a song, the user can use the arrow keys. 
 
 ## inspo
 
