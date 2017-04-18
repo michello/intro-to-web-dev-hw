@@ -6,6 +6,9 @@ Data visualization of coffee consumption based on country or types of people (ie
 ## inspo
 - http://www.bizbrain.org/coffee/
 
+## wireframe
+![alt tag](img/wireframe.jpg)
+
 ## resources
 - http://www.ico.org/new_historical.asp
 use: disapperance (consumption)
