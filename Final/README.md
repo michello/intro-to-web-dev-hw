@@ -63,7 +63,7 @@ function creatingOptions(id){
 ### old code:
 * Problem: idk
 ![alt tag](https://i.gyazo.com/4fc31633594ce2b283abcc9761001a29.png)
-[Old code here]()
+[Old code here](https://github.com/ml4963/intro-to-web-dev-hw/blob/master/Final/oldCode.js)
 
 ## Issues Encountered
 * JSON file manipulation: You must have a live server when dealing with json
@@ -75,4 +75,4 @@ down to the next.
 ## Next Steps
 * Get main functionality to work. Probably should use MixItUp.
 * Refine front end visuals.
-* Add more categories & convert to more JSON data. 
+* Add more categories & convert to more JSON data.
