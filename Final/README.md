@@ -1,4 +1,4 @@
-#FINAL
+# FINAL
 
 ## Live Site Link
 You can view my super wonky and super slow site [here](http://mochadroppe.me/coffeeist.html)
